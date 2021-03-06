@@ -1,3 +1,3 @@
 Wechat contact
-![Image text](https://raw.github.com/shannontong/repositpry/master/portfolio/public/images/qrcode_wechat.png)
+![Image text](http://github.com/shannontong/portfolio/raw/master/public/images/qrcode_wechat.png)
 
