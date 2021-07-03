@@ -77,8 +77,8 @@ a {
 
 
 #canvas{
-    max-width:1200px;
-    padding:36px;
+    max-width:80%;
+    padding:16px;
     margin:0px auto;
 }
 
@@ -111,7 +111,7 @@ header .logo .logoText{
 
 
 #nav .navBlock{
-	padding:0px 0px 20px 0px;
+	padding:0px 10% 20px 10%;
 	line-height: 40px;
 	text-align: right;
 }
@@ -160,9 +160,9 @@ content{
 
 content .project{
     display: inline-block;
-    width:calc(100% / 2 - 80px);
-    margin-left:3%;
-    margin-right:3%;
+    width:calc(100% / 2 - 10%);
+    margin-left:4%;
+    margin-right:4%;
     margin-bottom:30px;
     text-align:center;
     text-decoration: none;
@@ -174,7 +174,7 @@ content .project:hover{
 }
 
 .projectImage{
-    width:100%;
+    width: 100%;
     height: 360px;
     margin-bottom:5px;
     overflow: hidden;
@@ -185,8 +185,8 @@ content .project:hover{
 }
 
 .projectImage img{
-    min-height: 200px;
-    max-width: 100%;
+    min-height: 100%;
+    width: 100%;
 }
 
 .project .projectName{
@@ -230,7 +230,7 @@ content .project:hover{
 }
 
 .mainPic img{
-    width:100%;
+    width:60%;
 }
 
 content .function{
@@ -257,7 +257,7 @@ content .contact{
 .contact img{
     display: inline-block;
     vertical-align: middle;
-    width:100px;
+    width:160px;
     height:auto;
 }
 
