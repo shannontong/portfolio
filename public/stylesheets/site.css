@@ -99,12 +99,27 @@ header .logo img{
 	vertical-align:baseline;
 }
 
-header .logo .logoText{
+header .logo .logoRight{
 	display: inline-block;
-	line-height: 64px;
+	font-weight: lighter;
+	margin-left: 0px;
+	vertical-align: baseline;
+}
+
+header .logo .logoText{
+	line-height: 32px;
 	font-weight: lighter;
 	font-size: 24px;
 	color:#222;
+	margin-left: 0px;
+	vertical-align: bottom;
+}
+
+header .logo .logoDesciption{
+	line-height: 24px;
+	font-weight: lighter;
+	font-size: 16px;
+	color:#444;
 	margin-left: 0px;
 	vertical-align: bottom;
 }
@@ -128,7 +143,7 @@ header .logo .logoText{
     text-decoration: none;
 	font-family: DM Sans;
 	font-style: normal;
-	font-weight: 500;
+	font-weight: 400;
 	line-height: 120%;
 	/* or 25px */
 
@@ -303,7 +318,7 @@ p.description{
     line-height: 200px;
     font-size: 15px;
     padding: 10px; 
-    background: rgba(255, 219, 149, 0.28);
+    background: rgba(255, 255, 255, 0.28);
 }
 
 .projectImage h2 {
